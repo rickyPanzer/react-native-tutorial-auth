@@ -1,0 +1,5 @@
+Hax is enabled
+Hax ram_size 0x60000000
+HAX is working and emulator runs in fast virt mode.
+emulator: Listening for console connections on port: 5554
+emulator: Serial number of this emulator (for ADB): emulator-5554
